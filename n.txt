@@ -1,5 +1,5 @@
 Developer1 -- Added new file --name of the file n.txt
-
+Dev2 added one more line
 This file is not present on server + not avaiable with Dev2...
 
 
@@ -8,9 +8,11 @@ This file is not present on server + not avaiable with Dev2...
 Other changes by dev2....after first commit and push...!
 line1
 line2
+line2.5
 line3
 line4
 
 
+d2....These are the changes to test code pull conflict, more than
 d1....These are the changes to test code pull conflict, more than 
 one dev making a changes in same file
